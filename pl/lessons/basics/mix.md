@@ -1,6 +1,7 @@
----
-version: 0.9.2
-title: Mix
+%{
+  version: "0.9.2",
+  title: "Mix"
+}
 ---
 
 Zanim zajmiemy się bardziej zaawansowanymi aspektami Elixira musimy poznać mix. Jeżeli znasz Ruby to mix jest odpowiednikiem Bundlera, RubyGems i Rake. Jest to kluczowy element każdego projektu tworzonego w Elixirze i w tej lekcji przyjrzymy się najważniejszym jego funkcjom. By uzyskać pełną listę oferowanych funkcji, wpisz `mix help`.

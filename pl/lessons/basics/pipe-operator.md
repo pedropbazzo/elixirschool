@@ -1,6 +1,7 @@
----
-version: 0.9.1
-title: Operator Potoku
+%{
+  version: "0.9.1",
+  title: "Operator Potoku"
+}
 ---
 
 Operator potoku `|>` przekazuje wynik jednego wyrażenia jako pierwszy parametr następnego wyrażenia.
