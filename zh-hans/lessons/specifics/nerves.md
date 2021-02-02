@@ -1,10 +1,9 @@
+%{
+  version: "1.0.0",
+  title: "Nerves",
+  redirect_from: "/zh-hans/lessons/advanced/nerves"
+}
 ---
-version: 1.0.0
-title: Nerves
-redirect_from:
-  - /zh-hans/lessons/advanced/nerves
----
-
 ## Nerves 简介
 
 我们将在本课中介绍 Nerves， Nerves 项目是在嵌入式软件开发中使用 Elixir 的框架。 正如 Nerves 官网所说，它允许您“使用 Elixir 制作和部署防弹嵌入式软件”。 本课将与其他 Elixir School课程略有不同。 Nerves 学习起来有点困难，因为它需要一些先进的系统设置和额外的硬件，因此可能不适合初学者。

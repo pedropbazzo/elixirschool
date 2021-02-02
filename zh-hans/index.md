@@ -1,7 +1,7 @@
----
-title: Elixir School
-layout: home
-version: 2.0.0
+%{
+  version: "Elixir School",
+  title: "home"
+}
 ---
 
 Elixir School 是希望掌握 Elixir 这门编程语言的人首选资料。

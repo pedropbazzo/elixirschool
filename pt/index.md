@@ -1,7 +1,7 @@
----
-title: Elixir School
-layout: home
-version: 2.0.0
+%{
+  version: "Elixir School",
+  title: "home"
+}
 ---
 
 Elixir School é o primeiro destino para pessoas procurando aprender e dominar a linguagem de programação Elixir.

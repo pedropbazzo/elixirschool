@@ -1,10 +1,9 @@
+%{
+  version: "1.1.2",
+  title: "Nerves",
+  redirect_from: "/ja/lessons/advanced/nerves"
+}
 ---
-version: 1.1.2
-title: Nerves
-redirect_from:
-  - /ja/lessons/advanced/nerves
----
-
 {% include toc.html %}
 
 ## はじめに

@@ -1,7 +1,7 @@
----
-title: Elixir School (Tiếng Việt)
-layout: home
-version: 2.0.0
+%{
+  version: "Elixir School (Tiếng Việt)",
+  title: "home"
+}
 ---
 
 Elixir School là điểm đến hàng đầu cho những ai muốn học và làm

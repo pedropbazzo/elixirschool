@@ -1,7 +1,7 @@
----
-title: Elixir School日本語訳
-layout: home
-version: 2.0.0
+%{
+  version: "Elixir School日本語訳",
+  title: "home"
+}
 ---
 
 Elixir Schoolは、Elixirというプログラミング言語を学習し、使いこなそうとしている人々にとって最高の場所です。

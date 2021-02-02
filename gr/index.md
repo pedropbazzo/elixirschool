@@ -1,7 +1,7 @@
----
-title: Elixir School
-layout: home
-version: 2.0.0
+%{
+  version: "Elixir School",
+  title: "home"
+}
 ---
 
 Το ElixirSchool είναι ο πρώτος προορισμός για ανθρώπους που προσπαθούν να μάθουν και να γίνουν αυθεντίες στην γλώσσα προγραμματισμού Elixir.

@@ -1,7 +1,7 @@
----
-title: Elixir School
-layout: home
-version: 2.0.0
+%{
+  version: "Elixir School",
+  title: "home"
+}
 ---
 
 مدرسة إليكسير تعد هي الوجة الاولى للذين يتطلعون لتعلم وإتقان لغة برمجة إليكسير.

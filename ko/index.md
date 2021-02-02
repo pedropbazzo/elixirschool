@@ -1,7 +1,7 @@
----
-title: Elixir School 한국어판
-layout: home
-version: 2.0.0
+%{
+  version: "Elixir School 한국어판",
+  title: "home"
+}
 ---
 
 Elixir School의 목표는 Elixir 프로그래밍 언어를 배우려는 사람들에게 최고의 선택지가 되는 것입니다.
